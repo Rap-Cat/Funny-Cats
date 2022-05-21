@@ -1,0 +1,39 @@
+
+body {
+background-image: url('https://i.postimg.cc/7hkFnNkT/pexels-miriam-espacio-110854.jpg');
+  font-family: "Audiowide", sans-serif;
+  background-size: 100%;
+}
+header {
+  min-height: 20vh;
+  justify-container: center;
+  align-items: center;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  margin: 35px;
+}
+
+.button {
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #00455c;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 3px 3px #937ff5; 
+}
+
+.button:hover {
+    background-color: #20058a;
+}
+
+.image {
+ position: center;
+  border-radius: 15px;
+}
