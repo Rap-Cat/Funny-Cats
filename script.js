@@ -12,7 +12,7 @@ let images = [
 ];
 
  function getRandomImage (arr) {
-  let random = Math.floor(Math.random()*arr.length)
+  let random = Math.floor(Math.random()*2)
   return arr[random];
 }
 
